@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZombieShooter2D", "ZombieShooter2D.csproj", "{906296DC-0839-E090-F434-637E98BB9E59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZombieShooter2D.Editor", "ZombieShooter2D.Editor.csproj", "{5037B508-74E5-51E0-81C1-DDC96E63475C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{906296DC-0839-E090-F434-637E98BB9E59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{906296DC-0839-E090-F434-637E98BB9E59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{906296DC-0839-E090-F434-637E98BB9E59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{906296DC-0839-E090-F434-637E98BB9E59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5037B508-74E5-51E0-81C1-DDC96E63475C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5037B508-74E5-51E0-81C1-DDC96E63475C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5037B508-74E5-51E0-81C1-DDC96E63475C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5037B508-74E5-51E0-81C1-DDC96E63475C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
